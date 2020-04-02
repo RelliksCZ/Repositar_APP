@@ -1,0 +1,6 @@
+C:\Users\Martas\APP\APP\bin\Debug\APP.exe.config
+C:\Users\Martas\APP\APP\bin\Debug\APP.exe
+C:\Users\Martas\APP\APP\bin\Debug\APP.pdb
+C:\Users\Martas\APP\APP\obj\Debug\APP.csprojAssemblyReference.cache
+C:\Users\Martas\APP\APP\obj\Debug\APP.exe
+C:\Users\Martas\APP\APP\obj\Debug\APP.pdb
